@@ -4,4 +4,25 @@
 
 .div2 {
   background-color: yellowgreen;
+  height: 400px;
+}
+
+#right-side {
+  padding-left: 30px;
+  background-color: white;
+  border-radius: 30px;
+  position: relative;
+}
+
+#logo {
+  position: absolute;
+  top: 20px;
+  left: 300px;
+
+  height: 100px;
+}
+
+#mentor-image{
+  height: 30px;
+  width: 30px;
 }
